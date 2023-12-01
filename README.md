@@ -4,7 +4,7 @@
 >
 > **To be Noted**<br> > _The content in this repository does not contain any content or media from the course itself. Therefore, it is not a substitute for the official course materials provided by Programming Hero. The materials and notes in this repository are based on my personal learning journey and are intended for educational purposes only._
 
-![image]([https://github.com/mahfuzar175/Web-Development/assets/112527326/b62607bc-c2c2-45ee-a9f1-b2acb742ce02](https://github-production-user-asset-6210df.s3.amazonaws.com/112527326/263493658-b62607bc-c2c2-45ee-a9f1-b2acb742ce02.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231201%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231201T123930Z&X-Amz-Expires=300&X-Amz-Signature=0d5339df250d8aab791efc157845c2f9553a36c4ac9c44dbecf940df45a50245&X-Amz-SignedHeaders=host&actor_id=138315481&key_id=0&repo_id=669149553))
+![image](https://github.com/mahfuzar175/Web-Development/assets/112527326/b62607bc-c2c2-45ee-a9f1-b2acb742ce02)
 
 Welcome to the repository containing my notes and learning materials from the <a href="https://web.programming-hero.com/course-details">Complete Web Development Course With Jhankar Mahbub</a> by Programming Hero [Batch 08].
 As a student of this course, I've compiled this repository to consolidate my understanding of the concepts taught throughout the course.
